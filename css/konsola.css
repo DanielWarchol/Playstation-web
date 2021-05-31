@@ -1,0 +1,38 @@
+.konsola {
+  background: linear-gradient(-50deg, #d8d8d8, #ffffff);
+  height: auto;
+}
+
+.konsola-title {
+  font-size: 30px;
+  font-weight: 200;
+}
+
+.konsola-title-1 {
+  font-size: 35px;
+  font-weight: 200;
+}
+
+.konsola-p {
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.konsola-p-1 {
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.PS5 {
+  animation: PS5animation 5s linear infinite;
+}
+
+@keyframes PS5animation {
+  0%, 100% {
+    transform: translateY(15px);
+  }
+  50% {
+    transform: translateY(-15px);
+  }
+}
+/*# sourceMappingURL=konsola.css.map */

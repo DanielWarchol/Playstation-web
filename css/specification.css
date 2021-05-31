@@ -1,0 +1,18 @@
+.PS5-Family img {
+  height: 300px;
+}
+
+.PS5-text h1 {
+  font-weight: 200;
+}
+
+.PS5-specification-2 {
+  margin-top: 130px;
+}
+
+.fa-tachometer-alt,
+.fa-microchip {
+  font-size: 50px;
+  color: #0029cc;
+}
+/*# sourceMappingURL=specification.css.map */

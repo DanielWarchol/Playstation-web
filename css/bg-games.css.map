@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../scss/bg-games.scss"
+    ],
+    "names": [],
+    "file": "bg-games.css"
+}

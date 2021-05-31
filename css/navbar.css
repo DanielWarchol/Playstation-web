@@ -1,0 +1,13 @@
+.navbar {
+  background: linear-gradient(-50deg, #d8d8d8, #ffffff);
+}
+
+.nav-link {
+  color: gray !important;
+  margin: 30px;
+}
+
+.nav-link:hover {
+  color: black !important;
+}
+/*# sourceMappingURL=navbar.css.map */
